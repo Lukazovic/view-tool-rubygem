@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+LucasViewTool::Renderer.copyright 'Your name', 'Your message'
+```
 
 ## Development
 
